@@ -6,4 +6,4 @@ I ran out of mixer channels in my small audio lab. In order to be able to sum up
 
 I am a bit proud that I used an old BC 302 transistor in a TO-39 package from my old stock from the 1980s.
 
-![circuit diagram of 8 channel audio mixer](audio-mixer-diagram2.png)
+![circuit diagram of 8 channel audio mixer](audio-mixer-diagram3.png)
